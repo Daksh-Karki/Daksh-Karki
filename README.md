@@ -5,7 +5,7 @@
 I'm a passionate and curious software developer, currently studying Bachelor's of Computing Systems at Unitec. I enjoy building full-stack web applications, Android apps, and diving into machine learning projects.
 
 - 🔭 I’m currently working on: Multiple projects and assignments for my studies related to high-level data analytics and programming
-- 🌱 I’m learning: Machine Learning (COMP8831) and advanced data analytics
+- 🌱 I’m learning: Machine Learning and advanced data analytics
 - 👯 I’m looking to collaborate on: Open source data-driven or Android development projects
 - 🤔 I’m exploring: Supervised learning using cryptocurrency trading datasets
 - 💬 Ask me about: Web development, Android, Firebase, Python, and Data Warehousing
