@@ -1,10 +1,10 @@
-# Hi there, I'm Daksh Karki 👋
+# Hi there, I'm Daksh Karki
 
 ## 💻 About Me
 
-I'm a passionate and curious software developer, currently studying Bachelors of Computing Systems at Unitec. I enjoy building full-stack web applications, Android apps, and diving into machine learning projects.
+I'm a passionate and curious software developer, currently studying Bachelor's of Computing Systems at Unitec. I enjoy building full-stack web applications, Android apps, and diving into machine learning projects.
 
-- 🔭 I’m currently working on: Multiple projects and assignment for my studies related to high level data anlytics and programming
+- 🔭 I’m currently working on: Multiple projects and assignments for my studies related to high-level data analytics and programming
 - 🌱 I’m learning: Machine Learning (COMP8831) and advanced data analytics
 - 👯 I’m looking to collaborate on: Open source data-driven or Android development projects
 - 🤔 I’m exploring: Supervised learning using cryptocurrency trading datasets
